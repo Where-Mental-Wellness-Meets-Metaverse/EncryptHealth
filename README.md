@@ -17,18 +17,6 @@ http://127.0.0.1:8000/docs
 
 ---
 
-### 2. **Save the file**
-
----
-
-### 3. **Add the README.md changes to git**
-
-In your terminal, run:
-
-```bash
-git add README.md
-git push
-
 
 
 
