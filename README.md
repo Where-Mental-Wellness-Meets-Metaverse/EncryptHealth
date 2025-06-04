@@ -27,6 +27,8 @@ In your terminal, run:
 
 ```bash
 git add README.md
+git push
+
 
 
 
