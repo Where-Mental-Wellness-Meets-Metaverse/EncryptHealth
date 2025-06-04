@@ -5,7 +5,7 @@ EncryptHealth is a FastAPI backend API for secure encryption and practitioner re
 ## Getting Started
 
 ### Prerequisites
-
+ 
 - Python 3.8+  
 - pip
 
