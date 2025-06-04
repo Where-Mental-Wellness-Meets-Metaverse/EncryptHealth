@@ -11,11 +11,9 @@ EncryptHealth is a FastAPI backend API for secure encryption and practitioner re
 
 ### Installation
 
-1. Clone the repo:
+1. Install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/EncryptHealth.git
-cd EncryptHealth
 pip install -r requirements.txt
 uvicorn main:app --reload
 http://127.0.0.1:8000/docs
@@ -26,8 +24,7 @@ EncryptHealth/
 ├── README.md
 └── ...
 
-git clone https://github.com/megmontanez/EncryptHealth.git
-*Created by Dr. Meg Montañez*
+Created by Dr. Meg Montañez-Davenport
 
 
 
